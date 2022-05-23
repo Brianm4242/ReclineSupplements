@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Neusa Next Pro';
+    src: url('../fonts/NeusaNextPro-Bold.eot');
+    src: url('../fonts/NeusaNextPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NeusaNextPro-Bold.woff2') format('woff2'),
+        url('../fonts/NeusaNextPro-Bold.woff') format('woff'),
+        url('../fonts/NeusaNextPro-Bold.ttf') format('truetype'),
+        url('../fonts/NeusaNextPro-Bold.svg#NeusaNextPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neusa Next Pro';
+    src: url('../fonts/NeusaNextPro-Regular.eot');
+    src: url('../fonts/NeusaNextPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NeusaNextPro-Regular.woff2') format('woff2'),
+        url('../fonts/NeusaNextPro-Regular.woff') format('woff'),
+        url('../fonts/NeusaNextPro-Regular.ttf') format('truetype'),
+        url('../fonts/NeusaNextPro-Regular.svg#NeusaNextPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Voire';
+    src: url('../fonts/Voire-Regular.eot');
+    src: url('../fonts/Voire-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Voire-Regular.woff2') format('woff2'),
+        url('../fonts/Voire-Regular.woff') format('woff'),
+        url('../fonts/Voire-Regular.ttf') format('truetype'),
+        url('../fonts/Voire-Regular.svg#Voire-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

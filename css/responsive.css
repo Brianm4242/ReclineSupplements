@@ -1,0 +1,780 @@
+@media screen and (min-width: 1367px) and (max-width: 1800px) {
+    .banner-right {
+        padding-right: 0;
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 1201px) and (max-width: 1366px) {
+
+    .banner-right {
+        margin-left: 0;
+        padding-right: 10px;
+    }
+
+    .banner-right p br {
+        display: none;
+        margin-bottom: 0;
+    }
+
+    .product-supply-area {
+        margin-top: 20px;
+    }
+
+    .product-supply-item-two {
+        margin-top: 22px;
+    }
+
+    .buy-now-btn {
+        margin-top: 20px;
+    }
+
+    .banner-right p {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .mordern-wrapper p br {
+        display: none;
+    }
+
+    .m1-banner-area {
+        padding: 130px 0px;
+    }
+
+}
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .banner-right {
+        margin-left: 0;
+        padding-right: 0;
+        margin-top: 10px;
+    }
+
+    .banner-right p {
+        font-size: 15px;
+        line-height: 28px;
+        margin-bottom: 0;
+    }
+
+    .banner-right p br {
+        display: none;
+    }
+
+    .product-supply-area {
+        margin-top: 20px;
+    }
+
+    .buy-now-btn {
+        margin-top: 15px;
+    }
+
+    .product-supply-item-two {
+        margin-top: 25px;
+    }
+
+
+    .mordern-wrapper p br {
+        display: none;
+    }
+
+    .footer-wrapper p br {
+        display: none;
+    }
+
+        /* home-page-start */
+
+        .m1-banner-area {
+            padding: 70px 0px;
+        }
+        .m1-banner-left {
+            text-align: left !important;
+            margin-left: 30px;
+        }
+    
+        .everyday-wrapper p br{
+            display: none;
+        }
+    
+        .relief-left img {
+            width: 280px;
+        }
+    
+        .relief-right p br{
+            display: none;
+        }
+    
+        .relief-wrapper .row {
+            align-items: center;
+        }
+    
+        /* home-page-end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    /* product-page-start */
+    .logo-area h1 {
+        font-size: 24px;
+    }
+
+    .banner-right {
+        margin-left: 15px;
+        padding-right: 15px;
+        margin-top: 30px;
+    }
+
+    .banner-right p {
+        /*! font-size: 16px; */
+        line-height: 28px;
+    }
+
+    .banner-right p br {
+        display: none;
+    }
+
+    .buy-now-btn p {
+        font-size: 20px !important;
+        line-height: 40px !important;
+    }
+
+    .world-wrapper h1 {
+        font-size: 26px;
+    }
+
+    .world-best-area {
+        padding: 40px 0px;
+    }
+
+    .world-wrapper p {
+        font-size: 18px;
+    }
+
+    .world-inner-wrapper p {
+        font-size: 18px;
+    }
+
+    .world-inner-wrapper p br {
+        display: none;
+    }
+
+    .graph-left h1 {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .graph-area {
+        padding: 30px 0px;
+    }
+
+    .mordern-wrapper h1 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    .mordern-area {
+        padding: 30px 0px;
+    }
+
+    .mordern-wrapper p {
+        font-size: 18px;
+        line-height: 34px;
+    }
+
+    .mordern-wrapper p br {
+        display: none;
+    }
+
+    .graph-wrapper-two .row {
+        flex-direction: column-reverse;
+    }
+
+    .graph-right p {
+        font-size: 16px;
+    }
+
+    .faq-heading h1 {
+        font-size: 22px;
+    }
+
+    .set>a {
+        font-size: 18px;
+    }
+
+    .content p {
+        font-size: 18px;
+    }
+
+    .images-wrapper img {
+        display: none;
+    }
+
+    .images-wrapper img#sm-images {
+        display: block;
+    }
+
+    .footer-wrapper p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .footer-wrapper p br {
+        display: none;
+    }
+    .toggle-button {
+        top: 20px;
+    }
+    /* product-page-end */
+
+    /* home-page-start */
+
+    .m1-banner-area {
+        padding: 55px 0px;
+    }
+    .m1-banner-left {
+        text-align: left !important;
+        margin-left: 30px;
+    }
+
+    .everyday-wrapper p br{
+        display: none;
+    }
+
+    .relief-left img {
+        width: 280px;
+    }
+
+    .relief-right p br{
+        display: none;
+    }
+
+    .relief-wrapper .row {
+        align-items: center;
+    }
+
+    /* home-page-end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+    /* product-page-start */
+    .logo-area h1 {
+        font-size: 24px;
+    }
+
+    .banner-right {
+        margin-left: 15px;
+        padding-right: 15px;
+        margin-top: 30px;
+    }
+
+    .banner-right p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .banner-right p br {
+        display: none;
+    }
+
+    .buy-now-btn p {
+        font-size: 20px !important;
+        line-height: 40px !important;
+    }
+
+    .world-wrapper h1 {
+        font-size: 26px;
+    }
+
+    .world-best-area {
+        padding: 40px 0px;
+    }
+
+    .world-wrapper p {
+        font-size: 18px;
+    }
+
+    .world-inner-wrapper p {
+        font-size: 18px;
+    }
+
+    .world-inner-wrapper p br {
+        display: none;
+    }
+
+    .graph-left h1 {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .graph-area {
+        padding: 30px 0px;
+    }
+
+    .mordern-wrapper h1 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    .mordern-area {
+        padding: 30px 0px;
+    }
+
+    .mordern-wrapper p {
+        font-size: 18px;
+        line-height: 34px;
+    }
+
+    .mordern-wrapper p br {
+        display: none;
+    }
+
+    .graph-wrapper-two .row {
+        flex-direction: column-reverse;
+    }
+
+    .graph-right p {
+        font-size: 16px;
+    }
+
+    .faq-heading h1 {
+        font-size: 22px;
+    }
+
+    .set>a {
+        font-size: 18px;
+    }
+
+    .content p {
+        font-size: 18px;
+    }
+
+    .images-wrapper img {
+        display: none;
+    }
+
+    .images-wrapper img#sm-images {
+        display: block;
+    }
+
+    .footer-wrapper p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .footer-wrapper p br {
+        display: none;
+    }
+
+    .toggle-button {
+        top: 20px;
+    }
+
+    /* product-page-end */
+
+        /* homepage-start */
+        .m1-banner-area {
+            background: url(../img/Hero-Mobile.webp);
+            padding: 20px 0px 315px 0px;
+            background-size: 100% 100%;
+        }
+    
+        .m1-banner-left h1 {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+    
+        .m1-banner-left p {
+            font-size: 17px;
+        }
+    
+        .m1-banner-left a {
+            padding: 15px 35px;
+        }
+    
+        .plant-base p {
+            font-size: 16px;
+        }
+    
+        .everyday-wrapper h1 {
+            font-size: 22px;
+            line-height: 34px;
+        }
+    
+        .everyday-wrapper p br{
+            display: none;
+        }
+    
+        .everyday-wrapper p {
+            font-size: 18px;
+            line-height: 30px;
+        }
+    
+        .relief-left img {
+            width: 270px;
+        }
+    
+        .relief-right {
+            margin-top: 35px;
+        }
+    
+        .relief-right h1 {
+            font-size: 22px;
+        }
+    
+        .relief-right p br{
+            display: none;
+        }
+    
+        .relief-right p {
+            font-size: 18px;
+            line-height: 30px;
+        }
+    
+        .email-wrapper h1 {
+            font-size: 22px;
+        }
+    
+        .email-wrapper p {
+            font-size: 17px;
+            line-height: 30px;
+        }
+    
+        .email-content input {
+            font-size: 18px;
+        }
+    
+        .email-content button {
+            font-size: 18px;
+        }
+        /* homepage-end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+    /* product-page-start */
+    .logo-area h1 {
+        font-size: 24px;
+    }
+
+
+    .banner-right {
+        margin-left: 15px;
+        padding-right: 15px;
+        margin-top: 30px;
+    }
+
+    .banner-right p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .banner-right p br {
+        display: none;
+    }
+
+    .buy-now-btn p {
+        font-size: 20px !important;
+        line-height: 40px !important;
+    }
+
+    .world-wrapper h1 {
+        font-size: 26px;
+    }
+
+    .world-best-area {
+        padding: 40px 0px;
+    }
+
+    .world-wrapper p {
+        font-size: 18px;
+    }
+
+    .world-inner-wrapper p {
+        font-size: 18px;
+    }
+
+    .world-inner-wrapper p br {
+        display: none;
+    }
+
+    .graph-left h1 {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .graph-area {
+        padding: 30px 0px;
+    }
+
+    .mordern-wrapper h1 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    .mordern-area {
+        padding: 30px 0px;
+    }
+
+    .mordern-wrapper p {
+        font-size: 18px;
+        line-height: 34px;
+    }
+
+    .mordern-wrapper p br {
+        display: none;
+    }
+
+    .graph-wrapper-two .row {
+        flex-direction: column-reverse;
+    }
+
+    .graph-right p {
+        font-size: 16px;
+    }
+
+    .faq-heading h1 {
+        font-size: 22px;
+    }
+
+    .set>a {
+        font-size: 18px;
+    }
+
+    .content p {
+        font-size: 18px;
+    }
+
+    .images-wrapper img {
+        display: none;
+    }
+
+    .images-wrapper img#sm-images {
+        display: block;
+    }
+
+    .footer-wrapper p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .footer-wrapper p br {
+        display: none;
+    }
+
+    .toggle-button {
+        top: 20px;
+    }
+
+    /* product-page-end */
+
+    /* homepage-start */
+    .m1-banner-area {
+        background: url(../img/Hero-Mobile.webp);
+        padding: 20px 0px 270px 0px;
+        background-size: 100% 100%;
+    }
+
+    .m1-banner-left h1 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+
+    .m1-banner-left p {
+        font-size: 17px;
+    }
+
+    .m1-banner-left a {
+        padding: 15px 35px;
+    }
+
+    .plant-base p {
+        font-size: 16px;
+    }
+
+    .everyday-wrapper h1 {
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    .everyday-wrapper p br{
+        display: none;
+    }
+
+    .everyday-wrapper p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .relief-left img {
+        width: 270px;
+    }
+
+    .relief-right {
+        margin-top: 35px;
+    }
+
+    .relief-right h1 {
+        font-size: 22px;
+    }
+
+    .relief-right p br{
+        display: none;
+    }
+
+    .relief-right p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .email-wrapper h1 {
+        font-size: 22px;
+    }
+
+    .email-wrapper p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .email-content input {
+        font-size: 18px;
+    }
+
+    .email-content button {
+        font-size: 18px;
+    }
+    /* homepage-end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
