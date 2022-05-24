@@ -262,7 +262,7 @@ Small Screen - Tablate
         display: none;
     }
     .toggle-button {
-        top: 20px;
+        top: 12px;
     }
     /* product-page-end */
 
@@ -440,7 +440,7 @@ Small Screen - Mobile
     }
 
     .toggle-button {
-        top: 20px;
+        top: 12px;
     }
 
     /* product-page-end */
@@ -667,7 +667,7 @@ Xtra Small Screen - Small Mobile
     }
 
     .toggle-button {
-        top: 20px;
+        top: 12px;
     }
 
     /* product-page-end */
